@@ -1,0 +1,6 @@
+{
+  "name": "FortiGate Conversion Engine",
+  "description": "Enterprise FortiOS configuration converter across E, F, and G series hardware models and firmware versions with real-time syntax alert notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
